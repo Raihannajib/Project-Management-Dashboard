@@ -1,0 +1,9 @@
+Project/node_modules
+Project/bower_components
+Project/storage/*.key
+Project/vendor
+Project/.env
+Project/.env.backup
+Project/.phpunit.result.cache
+Project/npm-debug.log
+Project/yarn-error.log
